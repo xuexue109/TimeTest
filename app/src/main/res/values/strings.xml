@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">TimeTest</string>
     <string name="update">更新时间</string>
+    <string name="record">记录时间</string>
+    <string name="list">时间列表</string>
 </resources>
